@@ -10,8 +10,29 @@
 
 }
 
+.refresh {
+  text-align: center;
+}
+
+.refresh button {
+  background: linear-gradient(to right, #28a3d3, #9e9f31);
+  border: 2px solid #04AA6D;
+  border-style: inherit;
+  outline: none;
+  margin-top: 5%;
+  padding: 5px 10px;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: 0.25s;
+  cursor: pointer;
+}
+
+.refresh button:hover{
+  transform: scale(0.9);
+}
+
 body {
-  background-color: #393E46;
+  background: linear-gradient(to right, #3766b2, #50ae30);
 }
 
 h1 {
@@ -20,6 +41,14 @@ h1 {
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
+}
+
+h3 {
+  margin: 15px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 3px 0 #232931;
+  font-size: 3rem;
+  color: #ffffff;
 }
 
 p {
