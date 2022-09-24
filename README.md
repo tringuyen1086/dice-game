@@ -1,4 +1,6 @@
-# Dice Game Challenge
+# Dice Game
+
+A simply entertaining Dice Game with random dice results for player 1 and 2. Hope you enjoy this game. 
 
 ## Live Application Link
 
