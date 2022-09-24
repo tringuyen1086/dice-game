@@ -2,6 +2,8 @@
 
 ## Live Application Link
 
+[dice-game](https://tringuyen1086.github.io/dice-game/)
+
 ## Project Visual
 ![player1-wins](https://user-images.githubusercontent.com/71200950/192094174-3dea8d7b-c65f-4dcf-bbc9-0d282f147ca3.png)
 
